@@ -1,5 +1,5 @@
 
-# Training an AI Agent for Prompt Injection Payload Generation: A Step-by-Step Guide
+# Training an AI Agent for Prompt Injection Payload Generation Using CrewAI and Local LLAMA3.3 Model
 
 This article will guide you through the process of training an AI agent to generate payloads for prompt injection attacks using CrewAI and the Llama 3 model using Ollama.
 
